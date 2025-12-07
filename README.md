@@ -6,4 +6,5 @@ Languages used for Robotics and Automation
 
 Tools used for Robotics and Automation
   - ROS
+  - RVIZ
   - Gazebo
